@@ -1,5 +1,5 @@
 # Afterpay
-![Afterpay Logo](downloads.png)
+![Afterpay Logo](download.png)
 ## Afterpay - a FinTech Case study
 Why is Afterpay such a finanical powerhouse within 7 years?
 

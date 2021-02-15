@@ -32,7 +32,7 @@ The Buy Now Pay Later (BNPL) market is currently worth $741.5 million in sales f
 
 The BNPL market was fairly benign at around $100 million per annum from 2011-2016, and is now experiencing exponential growth as younger tech savvy consumers enter the market.
 ### Results
-BNPL make their earnings from charging retailers a 4-6% charge on the sale, and charging interest and late fees on consumers if they miss payments. The advantage to the retailer is despite losing 4-5% of the sale to AfterPay, they receive the money unconditionally, and the credit risk falls to AfterPay.
+BNPL make their earnings from charging retailers a 4-6% charge on the sale, and charging interest and late fees on consumers if they miss payments. The advantage to the retailer is despite losing 4-6% of the sale to AfterPay, they receive the money unconditionally, and the credit risk falls to AfterPay.
 
 Accordingly, it has been found that retailers that offer BNPL services generally increase their sale by 20-30%, the customers spend more due to credit availability and that BNPL users tend to use the products 20 times per year on average.
 
